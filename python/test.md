@@ -24,3 +24,6 @@ Copilot: Because, I don't know XD
 
 Me: What about coding in C#?
 Copilot: yes, I know C#.
+
+Me: That's nice, what do you think of a 5000 USD project budget?
+Copilot: I don't know. I don't know.
